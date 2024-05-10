@@ -10,7 +10,7 @@ VB.Net
 - Developing a HR system  
 HTML, CSS, JavaScript
 
-- maintaining a bank systemsoftware engineersoftware engineer  
+- maintaining a bank system  
 cobol
 
 
