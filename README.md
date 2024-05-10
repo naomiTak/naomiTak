@@ -1,15 +1,17 @@
 ### Hi there 👋
-# I'm **Naomi**.
+I'm Naomi.  
 I have worked as a software engineer in Japan.
----
--custmaizing sales managiment system
- VB.Net
 
--Developing a HR system
- HTML, CSS, JavaScript
+work experience
+---  
+- custmaizing sales managiment system  
+VB.Net
 
--maintaining a bank system
- cobol
+- Developing a HR system  
+HTML, CSS, JavaScript
+
+- maintaining a bank systemsoftware engineersoftware engineer  
+cobol
 
 
 
