@@ -1,8 +1,10 @@
 ### Hi there 👋
 I'm Naomi.  
-I have worked as a software engineer in Japan.
+I have worked as a software engineer in Japan for 6 years.
 
-work experience
+🌱 I’m currently learning node.js, Typescript and Next.js.
+
+Work experience
 ---  
 - custmaizing sales managiment system  
 VB.Net
@@ -10,8 +12,6 @@ VB.Net
 - Developing a HR system  
 HTML, CSS, JavaScript
 
-- maintaining a bank system  
-cobol
 
 
 
