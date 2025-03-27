@@ -4,6 +4,8 @@ I have worked as a software engineer in Japan for 6 years.
 
 🌱 I’m currently learning node.js, Typescript and Next.js.
 
+📫 How to reach me: [LinkedIn](www.linkedin.com/in/nao-g-55822a2bb)
+
 Work experience
 ---  
 - custmaizing sales managiment system  
